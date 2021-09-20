@@ -1,0 +1,30 @@
+body{
+    background: rgba(13, 11, 99, 0.692);
+    font: normal 13pt arial;
+  }
+  
+  header{
+    color:whitesmoke;
+    text-align: center;
+  }
+  
+  section{
+    background: whitesmoke;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.685)
+  }
+  div{
+    --text-align: center;
+    padding: 10px;
+  }
+  
+  footer{
+    color:whitesmoke;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  
